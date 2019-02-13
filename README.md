@@ -23,7 +23,7 @@ Run the following command 'python -m http.server 8000'
 
 Go to Chrome or Edge browser and http://localhost:8000 url.
 
-First try in full desktop and browse through the website.
+First try in full desktop and browse through the website. Checkout things related to accessibility for like Keyboard navigation and event handling.
 
 If using Chrome go to developer tools (F12). You can use Ctrl + Shift + M to toggle between desktop and Responsive options. I recommend that you try with IPhone X or IPhone 5 or Galaxy S5 while on responsive state for the browser.
 
