@@ -17,14 +17,14 @@ Open Git bash window on your terminal.
 
 Git clone https://github.com/aditisobti/[TBD].git.
 
-Go to the folder where the code is downloaded on your machine.
+Go to the folder where the code is downloaded on the terminal.
 
 Run the following command 'python -m http.server 8000'
 
-Go to Chrome or Edge browser and http://localhost:8000 url.
+Go to Chrome or Edge browser with the following URL http://localhost:8000.
 
 First try in full desktop and browse through the website. Checkout things related to accessibility for like Keyboard navigation and event handling.
 
-If using Chrome go to developer tools (F12). You can use Ctrl + Shift + M to toggle between desktop and Responsive options. I recommend that you try with IPhone X or IPhone 5 or Galaxy S5 while on responsive state for the browser.
+To validate responsive behavior in Chrome, go to developer tools (F12). You can use Ctrl + Shift + M to toggle between desktop and Responsive options. I recommend that you try with IPhone X or IPhone 5 or Galaxy S5 while on responsive state for the browser.
 
-To try offline mode. Disconnect your machine from n/w and try browsing the page. You should still the content as expected but maps may not work.
+To try offline mode. Disconnect your machine from the n/w and try browsing the page. You should still the content as expected but maps may not work.
