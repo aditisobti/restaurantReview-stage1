@@ -21,7 +21,7 @@ Go to the folder where the code is downloaded on the terminal.
 
 Run the following command 'python -m http.server 8000'
 
-Go to Chrome or Edge browser with the following URL http://localhost:8000.
+Go to Chrome or Edge browser with the following URL http://localhost:8000/
 
 First try in full desktop and browse through the website. Checkout things related to accessibility for like Keyboard navigation and event handling.
 
